@@ -65,7 +65,13 @@ We load a sample transactions dataset into a database, run SQL queries for insig
 - Daily Spend Trend  
 - Daily Spend + 7-day Rolling Sum  
 - Category Spend Breakdown  
-- Top Merchants by Spend  
+- Top Merchants by Spend
+
+<img width="1196" height="585" alt="Daily-Spend-Analysis" src="https://github.com/user-attachments/assets/d8f3e721-5448-4faf-a6ca-3dbd3dd4b5e8" />
+
+<img width="1167" height="583" alt="Rolling-Sums" src="https://github.com/user-attachments/assets/0174a714-8f3b-463b-96cd-95faa25a090c" />
+
+<img width="1184" height="655" alt="Top-Merchants" src="https://github.com/user-attachments/assets/f91bf1bd-7885-4082-8661-9c39881638c2" />
 
 ---
 
