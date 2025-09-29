@@ -29,9 +29,15 @@ Phase 1 – Foundations
 🔸Project 2: Credit Scoring Dataset Analysis
 → Practice SQL basics (`SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`), aggregation functions, 
   window functions, and combine SQL with Python visualizations to produce a mini dashboard.
-🔗 (https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-2/Credit%20Scoring%20Dataset.ipynb)
+🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-2/Credit%20Scoring%20Dataset.ipynb)
 
-📘 Module 3: 'Probability, Statistics & Risk' Coming Soon 🚀
+
+📘 Module 3: Probability, Statistics & Risk
+🔸Project 1: Dice, Coins, and Stock Returns Simulation
+  In this notebook we explore probability basics using coin flips, dice rolls, and simulated
+  stock returns. 
+🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/Dice-Coins-and-Stock-Returns-Simulation.ipynb)
+
 
 🔧 Tech Stack
 
@@ -48,4 +54,4 @@ developed to sharpen my technical, analytical, and financial skills.
 
 Stay tuned as I keep adding more projects, phase by phase.
 
-👉 Next up: Module 2 – Project 2
+👉 Next up: Module 3 – Project 2
