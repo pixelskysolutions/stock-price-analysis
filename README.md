@@ -26,7 +26,12 @@ Phase 1 – Foundations
 → Practice SELECT, WHERE, GROUP BY, ORDER BY, and different types of JOINs on financial transaction data.
 🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-2/SQL_Transaction_Dashboard.ipynb)
 
-🔸Project 2: Coming Soon 🚀
+🔸Project 2: Credit Scoring Dataset Analysis
+→ Practice SQL basics (`SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`), aggregation functions, 
+  window functions, and combine SQL with Python visualizations to produce a mini dashboard.
+🔗 [http://localhost:8888/notebooks/PHASE1/MODULE-2/Credit%20Scoring%20Dataset.ipynb](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-2/Credit%20Scoring%20Dataset.ipynb)
+
+📘 Module 3: 'Probability, Statistics & Risk' Coming Soon 🚀
 
 🔧 Tech Stack
 
