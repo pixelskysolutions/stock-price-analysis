@@ -1,0 +1,51 @@
+customer_id,name,account_type,balance,late_payments,join_date
+1,Shane Thompson,Checking,15350.26,4,2023-05-17
+2,Carla Snyder,Credit,5371.06,3,2023-10-29
+3,Natasha Cox,Credit,5810.02,2,2025-04-09
+4,Mark Foster,Checking,15002.77,0,2025-02-21
+5,James Cabrera,Savings,7874.01,1,2021-10-12
+6,Joseph Galvan,Credit,9513.33,2,2025-07-19
+7,Barbara Parker,Savings,7648.73,2,2023-04-15
+8,Michael Bell,Savings,8933.62,3,2024-05-09
+9,Michelle Gonzalez,Credit,1741.56,5,2022-05-29
+10,Jonathan White,Savings,2369.52,1,2021-05-30
+11,Justin Foster,Checking,17640.25,2,2022-02-26
+12,Erik Sanchez,Credit,18118.61,4,2020-10-13
+13,Katie Ortiz,Savings,14613.52,0,2024-11-13
+14,Jeff Lee,Savings,12582.88,3,2022-02-13
+15,Tonya Holt,Credit,4721.23,4,2023-01-15
+16,Taylor Peterson,Checking,19270.36,0,2022-12-14
+17,Joshua Rivera,Credit,5989.68,2,2023-10-17
+18,John Davis,Credit,8773.4,4,2023-09-14
+19,Stephen Mitchell,Checking,19125.76,0,2022-04-20
+20,Allen Adams,Savings,5823.4,5,2021-04-22
+21,Travis Mejia,Credit,18440.66,5,2025-09-05
+22,Jennifer Dodson,Savings,6803.69,5,2020-10-15
+23,Daniel Clements DVM,Checking,13634.42,1,2023-11-01
+24,Shari Jones,Checking,11740.14,2,2025-02-06
+25,Michael Hobbs,Credit,10970.35,5,2023-01-29
+26,Johnny Rogers,Savings,10213.89,4,2024-02-24
+27,Kimberly Maynard,Savings,9879.61,2,2022-08-15
+28,Brooke Nunez,Credit,10187.98,3,2025-02-10
+29,Anthony Juarez,Credit,10218.72,1,2021-05-28
+30,Jorge Reed,Credit,7820.12,4,2022-01-31
+31,Shawn Baker,Savings,17430.13,4,2021-05-12
+32,Ralph Brady,Checking,1514.69,1,2021-04-17
+33,Brian Pollard,Credit,18661.88,4,2021-04-29
+34,Anthony Perry,Savings,2937.35,1,2024-09-30
+35,Matthew Patel,Credit,14098.85,2,2024-06-07
+36,Michael Robinson,Credit,2505.11,3,2022-02-11
+37,Henry White,Checking,1424.06,5,2021-03-04
+38,Dr. Benjamin Jordan PhD,Checking,5904.53,0,2025-08-23
+39,Jennifer Bell,Checking,16369.73,3,2022-02-01
+40,Megan Salinas,Checking,5363.12,1,2023-05-05
+41,Kyle Shaw,Credit,9702.53,1,2021-05-02
+42,Martin Ortiz,Checking,12482.02,3,2024-09-10
+43,Matthew Porter,Savings,15988.97,4,2022-11-24
+44,Billy Perez,Savings,7798.39,4,2024-01-16
+45,Susan Nunez,Checking,12536.68,1,2021-07-04
+46,Aaron Terrell,Checking,5611.85,2,2023-04-03
+47,Jeanette Lopez,Credit,17284.32,0,2021-11-26
+48,Mr. Michael Drake,Savings,10600.33,3,2025-01-21
+49,Michele Whitney,Credit,18085.15,1,2024-09-22
+50,Christina Fuller,Savings,4600.17,0,2024-05-13
