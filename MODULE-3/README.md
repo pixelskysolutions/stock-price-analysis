@@ -1,73 +1,93 @@
-# 📊 Module 3: Probability, Statistics & Risk
+# 📊 Module 3: Probability, Statistics & Risk  
 
-This module introduces the foundations of **probability and statistics** in finance.  
-We use simple simulations (coins, dice) to build intuition, then extend the concepts to stock returns and financial risk.
-
----
-
-## 🎯 Learning Goals
-- Understand probability basics (coins, dice, random variables).  
-- Apply the **Law of Large Numbers** in simulations.  
-- Explore probability distributions (normal, empirical).  
-- Connect probability to **financial risk** via stock return simulations.  
+This module builds intuition about probability, randomness, and statistical risk measures in finance.  
+We move from **coins & dice** → **stock return simulations** → **risk metrics** → **portfolio diversification**.  
 
 ---
 
-**Course:** Python–Finance Master Plan  
-**Author:** Rein | Pixel Sky Solutions  
+## 🔹 Core Topics Covered
+- **Probability Basics** – events, conditional probability, Bayes’ rule.  
+- **Distributions** – Normal, Log-normal, Binomial, Poisson.  
+- **Descriptive Statistics** – mean, variance, skewness, kurtosis.  
+- **Risk Measures** – standard deviation, Value-at-Risk (VaR), Conditional VaR (CVaR).  
+- **Correlation & Dependence** – covariance matrices, portfolio diversification.  
 
 ---
 
-## 🎯 Overview
-Probability and statistics are the **foundation of modern finance**.  
-In this module, we explore randomness, uncertainty, and risk — building intuition through simulations and applying it directly to **financial returns** and **risk metrics**.
+## 📂 Project Roadmap  
+
+### 1️⃣ Dice, Coins, and Stock Returns Simulation  
+📓 Notebook: `Dice-Coins-and-Stock-Returns-Simulation.ipynb`  
+
+- Simulated **coin flips** (Law of Large Numbers).  
+- Simulated **dice rolls** (uniform distribution).  
+- Generated **synthetic stock returns** from a normal distribution.  
+- Plotted distributions and stock price paths.  
+
+📈 **Charts**:  
+- `coin_toss_simulation.png`  
+- `dice_roll_simulation.png`  
+- `Simulated_Stock_Price.png`  
+- `Distribution_of_Daily_Returns.png`  
 
 ---
 
-## 📂 Projects in Module 3
+### 2️⃣ Risk Metrics – Value-at-Risk (VaR)  
+📓 Notebook: `Risk-Metrics-&-Value-at-Risk.ipynb`  
 
-### ✅ Project 1: Dice, Coins & Stock Returns Simulation
-- **Concepts Covered:**
-  - Coin toss probability (Law of Large Numbers)
-  - Dice roll probability distributions
-  - Stock price simulation using normally distributed returns
-- **Highlights:**
-  - Visualization of coin & dice probability convergence
-  - Stock return simulation with realistic volatility
-  - Understanding randomness in finance
+- Introduced **Value-at-Risk (VaR)** as a key risk measure.  
+- Used three approaches:  
+  - **Parametric (Variance-Covariance)**  
+  - **Historical Simulation**  
+  - **Monte Carlo Simulation**  
+- Compared and visualized results at 95% confidence level.  
 
-**Preview:**
-![Coin Toss](charts/coin_toss.png)
-![Dice Rolls](charts/dice_roll.png)
-![Stock Price Simulation](charts/stock_price.png)
+📈 **Charts**:  
+- `95%_Value_at_Risk_Estimates.png`  
+- `Distribution_of_Simulated_Daily_Returns.png`  
 
 ---
 
-### ✅ Project 2: Risk Metrics & Value-at-Risk (VaR)
-- **Concepts Covered:**
-  - Historical Simulation VaR
-  - Parametric (Variance–Covariance) VaR
-  - Monte Carlo Simulation VaR
-- **Highlights:**
-  - Quantifying downside risk at 95% confidence
-  - Visualizing different VaR thresholds
-  - Comparing strengths & limitations of VaR methods
+### 3️⃣ Risk Metrics – Value-at-Risk & Conditional VaR (CVaR)  
+📓 Notebook: `Risk_Metrics_Value_at_Risk_&_Conditional_VaR.ipynb`  
 
-**Preview:**
-![VaR Distribution](charts/var_distribution.png)
+- Extended VaR with **Conditional VaR (Expected Shortfall)**.  
+- Showed how CVaR captures **tail risk beyond VaR cutoff**.  
+- Compared **VaR vs CVaR** with historical simulations.  
+
+📈 **Charts**:  
+- `VaR_&_CVaR_Historical_Method.png`  
+- `Distribution_of_Synthetic_Daily_Returns.png`  
 
 ---
 
-## 📌 Key Takeaways
-- Randomness and probability drive financial outcomes.  
-- Simulations (coins, dice, stock returns) build strong intuition for uncertainty.  
-- Risk metrics like **Value-at-Risk (VaR)** quantify potential losses, but they are not predictions — they are **risk boundaries**.  
-- Each VaR method has trade-offs:
-  - Historical: data-driven, no assumptions  
-  - Parametric: fast, assumes normality  
-  - Monte Carlo: flexible, computationally intensive  
+### 4️⃣ Portfolio Risk & Diversification  
+📓 Notebook: `Portfolio_Risk_and_Diversification.ipynb`  
+
+- Constructed **synthetic multi-asset portfolios**.  
+- Computed **expected returns, volatilities, Sharpe ratios**.  
+- Visualized **correlation matrix & diversification effects**.  
+- Saved supporting data files:  
+  - `corr_empirical.csv`  
+  - `cov_empirical.csv`  
+  - `portfolio_returns_multi.csv`  
+  - `summary_portfolio_risk.json`  
+
+📈 **Charts**:  
+- `corr_matrix.png`  
+- `diversification_vs_correlation.png`  
+- `risk_return_scatter.png`  
 
 ---
-  *"Designing the Future, Pixel by Pixel"* ✨
 
+## ✅ Wrap-Up
+- Module 3 connected **probability theory** with **financial risk management**.  
+- We saw how **randomness** drives outcomes in coins, dice, and stock returns.  
+- Learned how to measure **risk** using **VaR & CVaR**.  
+- Built intuition on **portfolio diversification** using correlation.  
 
+📌 Next Step → Move to **Module 4: Financial Modeling & Time Series** 🚀  
+
+---
+
+📂 **Folder Structure**
