@@ -54,4 +54,4 @@ developed to sharpen my technical, analytical, and financial skills.
 
 Stay tuned as I keep adding more projects, phase by phase.
 
-👉 Next up: Module 3 – Project 2
+👉 Next up: Module 4 – Project 1
