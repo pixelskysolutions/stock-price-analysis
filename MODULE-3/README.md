@@ -29,10 +29,10 @@ By the end of this module, you’ll see how probability theory directly connects
 - Plotted distributions and stock price paths.  
 
 📈 **Charts**:  
-- `coin_toss_simulation.png`  
-- `dice_roll_simulation.png`  
-- `Simulated_Stock_Price.png`  
-- `Distribution_of_Daily_Returns.png`  
+- `[coin_toss_simulation.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/charts/coin_toss_simulation.png)`  
+- `[dice_roll_simulation.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/charts/dice_roll_simulation.png)`  
+- `[Simulated_Stock_Price.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/charts/Simulated_Stock_Price.png)`  
+- `[Distribution_of_Daily_Returns.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/charts/Distribution_of_Daily_Returns.png)`  
 
 ---
 
@@ -47,8 +47,8 @@ By the end of this module, you’ll see how probability theory directly connects
 - Compared and visualized results at 95% confidence level.  
 
 📈 **Charts**:  
-- `95%_Value_at_Risk_Estimates.png`  
-- `Distribution_of_Simulated_Daily_Returns.png`  
+- `[95%_Value_at_Risk_Estimates.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/charts/95%25_Value_at_Risk_Estimates.png)`  
+- `[Distribution_of_Simulated_Daily_Returns.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/charts/Distribution_of_Simulated_Daily_Returns.png)`  
 
 ---
 
@@ -60,8 +60,8 @@ By the end of this module, you’ll see how probability theory directly connects
 - Compared **VaR vs CVaR** with historical simulations.  
 
 📈 **Charts**:  
-- `VaR_&_CVaR_Historical_Method.png`  
-- `Distribution_of_Synthetic_Daily_Returns.png`  
+- `[VaR_&_CVaR_Historical_Method.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/charts/VaR_%26_CVaR_Historical_Method.png)`  
+- `[Distribution_of_Synthetic_Daily_Returns.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/charts/Distribution_of_Synthetic_Daily_Returns.png)`  
 
 ---
 
@@ -75,12 +75,12 @@ By the end of this module, you’ll see how probability theory directly connects
   - `corr_empirical.csv`  
   - `cov_empirical.csv`  
   - `portfolio_returns_multi.csv`  
-  - `summary_portfolio_risk.json`  
+  - `[summary_portfolio_risk.json](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/summary_portfolio_risk.json)`  
 
 📈 **Charts**:  
-- `corr_matrix.png`  
-- `diversification_vs_correlation.png`  
-- `risk_return_scatter.png`  
+- `[corr_matrix.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/charts/corr_matrix.png)`  
+- `[diversification_vs_correlation.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/charts/diversification_vs_correlation.png)`  
+- `[risk_return_scatter.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/charts/risk_return_scatter.png)`  
 
 ---
 
@@ -93,4 +93,5 @@ By the end of this module, you’ll see how probability theory directly connects
 📌 Next Step → Move to **Module 4: Financial Modeling & Time Series** 🚀  
 
 ---
+
 
