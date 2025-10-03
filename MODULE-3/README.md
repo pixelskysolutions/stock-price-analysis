@@ -90,28 +90,3 @@ We move from **coins & dice** → **stock return simulations** → **risk metric
 
 ---
 
-📂 **Folder Structure**
-PHASE1/MODULE-3/
-├── charts/
-│ ├── coin_toss_simulation.png
-│ ├── dice_roll_simulation.png
-│ ├── Simulated_Stock_Price.png
-│ ├── Distribution_of_Daily_Returns.png
-│ ├── 95%Value_at_Risk_Estimates.png
-│ ├── Distribution_of_Simulated_Daily_Returns.png
-│ ├── Distribution_of_Synthetic_Daily_Returns.png
-│ ├── VaR&CVaR_Historical_Method.png
-│ ├── corr_matrix.png
-│ ├── diversification_vs_correlation.png
-│ ├── risk_return_scatter.png
-│
-├── Dice-Coins-and-Stock-Returns-Simulation.ipynb
-├── Risk-Metrics-&-Value-at-Risk.ipynb
-├── Risk_Metrics_Value_at_Risk&_Conditional_VaR.ipynb
-├── Portfolio_Risk_and_Diversification.ipynb
-├── corr_empirical.csv
-├── cov_empirical.csv
-├── portfolio_returns_multi.csv
-├── summary_portfolio_risk.json
-└── README.md
-
