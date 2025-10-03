@@ -1,7 +1,11 @@
 # 📊 Module 3: Probability, Statistics & Risk  
 
-This module builds intuition about probability, randomness, and statistical risk measures in finance.  
-We move from **coins & dice** → **stock return simulations** → **risk metrics** → **portfolio diversification**.  
+## 📌 Executive Summary  
+This module introduces the foundations of **probability, statistics, and financial risk measurement**.  
+We begin with simple simulations (coins, dice, and stock returns) to build intuition about randomness and distributions, then apply these principles to **quantify financial risk** using Value-at-Risk (VaR) and Conditional VaR (CVaR).  
+
+Finally, we expand the scope to **portfolio risk and diversification**, showing how correlations between assets shape overall portfolio volatility and returns.  
+By the end of this module, you’ll see how probability theory directly connects to **real-world finance** — from modeling uncertainty to managing portfolio risk.  
 
 ---
 
@@ -90,3 +94,4 @@ We move from **coins & dice** → **stock return simulations** → **risk metric
 
 ---
 
+📂 **Folder Structure**
