@@ -39,6 +39,12 @@ Phase 1 – Foundations
 🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-3/Dice-Coins-and-Stock-Returns-Simulation.ipynb)
 
 
+📘 Module 4: Financial Modeling & Time Series
+🔸Project 1: Time Series Exploration — Prices, Returns & Rolling Statistics
+  In this notebook, we introduce time series analysis by working with simulated stock prices and returns.
+  We'll explore rolling statistics & visualize trends. 
+🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/Time_Series_Exploration.ipynb)
+
 🔧 Tech Stack
 
 🔸Languages: Python, SQL
