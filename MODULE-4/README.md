@@ -42,14 +42,15 @@ By the end of this module, you’ll have built, optimized, and interpreted a **f
 - Analyzed how trend and seasonality influence forecasting accuracy.  
 
 📈 **Charts**:  
-- `trend_decomposition.png`  
-- `seasonality_plot.png`  
-- `residual_analysis.png`  
+- `[seasonality_plot.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/charts/project2_timeseries_overview.png)`
+- `[trend_decomposition.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/charts/project2_decomposition.png)`  
+- `[rolling_stats.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/charts/project2_rolling_stats.png)`  
+- `[acf.pacf.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/charts/project2_acf_pacf.png)`  
 
 ---
 
 ### 3️⃣ ARIMA Forecasting & Model Evaluation  
-📓 Notebook: `Time_Series_ARIMA_Forecasting.ipynb`  
+📓 Notebook: `[Time_Series_ARIMA_Forecasting.ipynb](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/Time_Series_ARIMA_Forecasting.ipynb)`  
 
 - Built and optimized **ARIMA models** using AIC/BIC selection.  
 - Generated forecasts and compared predicted vs. actual values.  
@@ -57,15 +58,14 @@ By the end of this module, you’ll have built, optimized, and interpreted a **f
 - Saved supporting outputs for transparency and reproducibility.  
 
 📁 **Data Outputs**:  
-- `arima_summary.txt`  
-- `arima_best_model_summary.txt`  
-- `arima_forecast_results.csv`  
-- `arima_forecast_metrics.csv`  
+- `[arima_summary.txt](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/arima_summary.txt)`    
+- `[arima_forecast_results.csv](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/arima_forecast_results.csv)`  
+- `[arima_forecast_metrics.csv](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/arima_forecast_metrics.csv)`  
 
 📈 **Charts**:  
-- `arima_forecast_plot.png`  
-- `residuals_diagnostics.png`  
-- `forecast_confidence_intervals.png`  
+- `[arima_forecast_plot.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/charts/project3_arima_forecast.png)`  
+- `[residuals_diagnostics.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/charts/project3_residual_diagnostics.png)`  
+- `[forecast_confidence_intervals.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/charts/project3_model_evaluation.png)`  
 
 ---
 
@@ -77,5 +77,6 @@ By the end of this module, you’ll have built, optimized, and interpreted a **f
 📌 Next Step → Move to **Module 5: Machine Learning for Finance** 🤖  
 
 ---
+
 
 
