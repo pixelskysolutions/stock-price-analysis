@@ -1,0 +1,7 @@
+ARIMA forecasting summary
+Best order (p,d,q): (0, 0, 0)
+Forecast metrics: MAE=0.014884, RMSE=0.019086, MAPE=100.0350%
+
+Notes:
+- If residuals show autocorrelation, consider increasing model order or adding seasonal components.
+- For volatility forecasting, consider GARCH models on returns.
