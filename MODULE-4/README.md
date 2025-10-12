@@ -21,21 +21,21 @@ By the end of this module, you’ll have built, optimized, and interpreted a **f
 ## 📂 Project Roadmap  
 
 ### 1️⃣ Time Series Exploration  
-📓 Notebook: `Time_Series_Exploration.ipynb`  
+📓 Notebook: `[Time_Series_Exploration.ipynb](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/Time_Series_Exploration.ipynb)`  
 
 - Loaded and visualized **financial or economic time series data**.  
 - Explored **stationarity**, rolling means, and autocorrelation (ACF/PACF).  
 - Identified trends and periodic patterns in the dataset.  
 
 📈 **Charts**:  
-- `time_series_overview.png`  
-- `rolling_mean_and_std.png`  
-- `autocorrelation_plots.png`  
+- `[time_series_overview.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/charts/project1_stock_price.png)`  
+- `[returns_distribution.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/charts/project1_returns_distribution.png)`  
+- `[rolling_mean_and_std.png](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/charts/project1_rolling_stats.png)`  
 
 ---
 
 ### 2️⃣ Time Series Decomposition & Trend Analysis  
-📓 Notebook: `Time_Series_Decomposition_&_Trend_Analysis.ipynb`  
+📓 Notebook: `https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/Time_Series_Decomposition_%26_Trend_Analysis.ipynb`  
 
 - Performed **classical time series decomposition** (trend, seasonal, residual).  
 - Applied **moving averages** and smoothing techniques.  
@@ -77,3 +77,4 @@ By the end of this module, you’ll have built, optimized, and interpreted a **f
 📌 Next Step → Move to **Module 5: Machine Learning for Finance** 🤖  
 
 ---
+
