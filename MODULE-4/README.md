@@ -21,7 +21,7 @@ By the end of this module, you’ll have built, optimized, and interpreted a **f
 ## 📂 Project Roadmap  
 
 ### 1️⃣ Time Series Exploration  
-📓 Notebook: `[Time_Series_Exploration.ipynb](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/Time_Series_Exploration.ipynb)`  
+📓 Notebook: `[Time_Series_Exploration.ipynb]`  
 
 - Loaded and visualized **financial or economic time series data**.  
 - Explored **stationarity**, rolling means, and autocorrelation (ACF/PACF).  
@@ -77,4 +77,5 @@ By the end of this module, you’ll have built, optimized, and interpreted a **f
 📌 Next Step → Move to **Module 5: Machine Learning for Finance** 🤖  
 
 ---
+
 
