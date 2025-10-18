@@ -70,6 +70,34 @@ PHASE 1 – FOUNDATIONS
   evaluate performance with common metrics (MAE, RMSE, MAPE).
 🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/MODULE-4/Time_Series_ARIMA_Forecasting.ipynb)
 
+📘 MODULE 5: MACHINE LEARNING FOR FINANCE
+
+🔸PROJECT 1: CREDIT RISK MODELING WITH LOGISTIC REGRESSION
+  In this notebook, we build and evaluate a logistic regression model to classify loan defaults using real/synthetic data. 
+🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/PHASE2/MODULE-5/project1_credit_risk_logreg.ipynb)
+
+🔸PROJECT 2: STOCK RETURN PREDICTION WITH GRADIENT BOOSTING (XGBOOST)
+  In this notebook we predict next-day returns based on lagged features, technical indicators, and market trends.
+🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/PHASE2/MODULE-5/project2_stock_return_xgboost.ipynb)
+
+🔸PROJECT 3: ML PIPELINE FOR FINANCIAL DATA
+  In this notebook we create a reusable ML pipeline for data cleaning, model training, and evaluation.
+🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/PHASE2/MODULE-5/project3_ml_pipeline_finance.ipynb)
+
+📘 MODULE 6: QUANTITATIVE TRADING & BACKTESTING
+
+🔸PROJECT 1: ALGORITHMIC TRADING BOT – MEAN REVERSION STRATEGY
+  In this notebook, we design, backtest, and visualize a mean-reversion trading bot using Python and Pandas. 
+🔗 [View Notebook](#)
+
+🔸PROJECT 2: MOMENTUM STRATEGY WITH ROLLING SIGNALS
+  In this notebook we generate buy/sell signals based on moving averages and evaluate PnL.
+🔗 [View Notebook](#)
+
+🔸PROJECT 3: PORTFOLIO BACKTESTING ENGINE
+  In this notebook we build a reusable function that simulates multiple portfolio strategies and compares their performance.
+🔗 [View Notebook](#)
+
 🔧 TECH STACK
 
 🔸Languages: Python, SQL
