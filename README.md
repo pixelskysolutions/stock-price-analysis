@@ -113,4 +113,4 @@ developed to sharpen my technical, analytical, and financial skills.
 
 Stay tuned as I keep adding more projects, phase by phase.
 
-👉 Next up: Module 5 – Project 1
+👉 Next up: Module 7 – Project 1
