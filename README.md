@@ -86,17 +86,21 @@ PHASE 1 – FOUNDATIONS
 
 📘 MODULE 6: QUANTITATIVE TRADING & BACKTESTING
 
-🔸PROJECT 1: ALGORITHMIC TRADING BOT – MEAN REVERSION STRATEGY
-  In this notebook, we design, backtest, and visualize a mean-reversion trading bot using Python and Pandas. 
-🔗 [View Notebook](#)
+🔸PROJECT 1: ALGORITHMIC TRADING BOT – MEAN REVERSION STRATEGY  
+In this notebook, we design, backtest, and visualize a mean-reversion trading bot using Bollinger-band or z-score signals.  
+🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/PHASE2/MODULE-6/project1_backtesting_engine.ipynb)
 
-🔸PROJECT 2: MOMENTUM STRATEGY WITH ROLLING SIGNALS
-  In this notebook we generate buy/sell signals based on moving averages and evaluate PnL.
-🔗 [View Notebook](#)
+🔸PROJECT 2: MOMENTUM STRATEGY WITH ROLLING SIGNALS  
+We generate buy/sell signals based on short- and long-term moving averages (EMA 50/200), evaluate rolling PnL, and perform parameter sensitivity analysis.  
+🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/PHASE2/MODULE-6/project2_momentum_strategy.ipynb)
 
-🔸PROJECT 3: PORTFOLIO BACKTESTING ENGINE
-  In this notebook we build a reusable function that simulates multiple portfolio strategies and compares their performance.
-🔗 [View Notebook](#)
+🔸SUB-PROJECT: EMA PARAMETER SEARCH OPTIMIZATION  
+A complementary notebook that tests multiple EMA combinations to find the most robust momentum configuration.  
+🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/PHASE2/MODULE-6/project2_ema_param_search.ipynb)
+
+🔸PROJECT 3: PORTFOLIO BACKTESTING ENGINE  
+A modular backtesting engine that merges machine-learning and rule-based strategies, computes performance metrics (CAGR, Sharpe, drawdown), and exports detailed logs & CSV summaries.  
+🔗 [View Notebook](https://github.com/pixelskysolutions/stock-price-analysis/blob/main/PHASE2/MODULE-6/project3_portfolio_backtesting_engine.ipynb)
 
 🔧 TECH STACK
 
