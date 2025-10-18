@@ -1,0 +1,42 @@
+[
+  {
+    "Strategy":"ML Strategy",
+    "Total Return":0.0813491049,
+    "CAGR":0.0398793704,
+    "Volatility":0.1822105515,
+    "Sharpe":0.308758963,
+    "Max Drawdown":-0.2277622604
+  },
+  {
+    "Strategy":"Momentum Strategy",
+    "Total Return":-0.9999998559,
+    "CAGR":-0.9996204438,
+    "Volatility":7142.3038934709,
+    "Sharpe":0.8690425399,
+    "Max Drawdown":-0.999999868
+  },
+  {
+    "Strategy":"Equal-Weighted",
+    "Total Return":6913535.3551189071,
+    "CAGR":2628.3604460246,
+    "Volatility":3571.1531763578,
+    "Sharpe":0.8690501176,
+    "Max Drawdown":-0.7399055309
+  },
+  {
+    "Strategy":"Volatility-Weighted",
+    "Total Return":0.439383117,
+    "CAGR":0.1997429379,
+    "Volatility":0.2594095033,
+    "Sharpe":0.8272726474,
+    "Max Drawdown":-0.187736373
+  },
+  {
+    "Strategy":"Sharpe-Weighted",
+    "Total Return":694022.0426758195,
+    "CAGR":832.0804539034,
+    "Volatility":5269.9598869141,
+    "Sharpe":0.8690452322,
+    "Max Drawdown":-0.9196085968
+  }
+]

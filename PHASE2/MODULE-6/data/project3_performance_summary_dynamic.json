@@ -1,0 +1,50 @@
+[
+  {
+    "Strategy":"ML Strategy",
+    "Total Return":0.0813491049,
+    "CAGR":0.0398793704,
+    "Volatility":0.1822105515,
+    "Sharpe":0.308758963,
+    "Max Drawdown":-0.2277622604
+  },
+  {
+    "Strategy":"Momentum Strategy",
+    "Total Return":-1.0,
+    "CAGR":-0.9999987997,
+    "Volatility":714315997.1272642612,
+    "Sharpe":0.8695438002,
+    "Max Drawdown":-1.0
+  },
+  {
+    "Strategy":"Equal-Weighted",
+    "Total Return":8.84509913e+22,
+    "CAGR":297407113739.297668457,
+    "Volatility":357157998.564859271,
+    "Sharpe":0.8695438002,
+    "Max Drawdown":-0.7415438127
+  },
+  {
+    "Strategy":"Volatility-Weighted",
+    "Total Return":0.4396571433,
+    "CAGR":0.1998571345,
+    "Volatility":0.2594142382,
+    "Sharpe":0.8276307335,
+    "Max Drawdown":-0.1877421792
+  },
+  {
+    "Strategy":"Sharpe-Weighted",
+    "Total Return":9.040832934e+21,
+    "CAGR":95083294713.6901702881,
+    "Volatility":527138750.8006641865,
+    "Sharpe":0.8695438002,
+    "Max Drawdown":-0.9210778531
+  },
+  {
+    "Strategy":"Dynamic (Sharpe+InvVol)",
+    "Total Return":779.3521065247,
+    "CAGR":26.9347830943,
+    "Volatility":703109425.6639674902,
+    "Sharpe":0.8276755468,
+    "Max Drawdown":-1.0
+  }
+]
